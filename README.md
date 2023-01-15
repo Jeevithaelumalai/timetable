@@ -116,7 +116,7 @@ Execute the program
 ![OUTPUT](http://jeevitha.student.saveetha.in:8000/static/images/table.png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://jeevitha.student.saveetha.in:8000/static/images/html.validator.png?raw=true)
+![HTML VALIDATOR](http://jeevitha.student.saveetha.in:8000/static/images/hv.png?raw=true)
 
 # RESULT
 The program for creating timetable is completed successfully
